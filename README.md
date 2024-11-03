@@ -3,10 +3,12 @@ This repository contains the solution of the second homework of the Algorithmic 
 We answered research questions (RQs) about [Kaggle's](https://www.kaggle.com/datasets/najzeko/steam-reviews-2021)  steam_reviews.csv dataset, in order to uncover meaningful patterns in the data gathered from the famous [Steam](https://store.steampowered.com/) platform.
 
 
+
 The repository consists of the following files:
 1. __`main.ipynb`__: 
 	> A Jupyter notebook which provides the solutions to all research questions and algorithmic question.
- 
+        > The Jupyter Notebook can be also visualized at the [Jupyter nbviewer link](https://nbviewer.org/github/yaraoyoussef/ADM-HW2/blob/main/main.ipynb).
+
      **Research Questions:**
     1. **[RQ1]**: Exploratory Data Analysis (EDA)  
     2. **[RQ2]**: Let's explore the dataset by analyzing the distribution of reviews across different applications.  
