@@ -17,8 +17,8 @@ The repository consists of the following files:
     7. **[RQ7]**: Certainly, calculating probabilities and conducting statistical tests are essential skills for any data scientist. Let's calculate some intriguing figures.
 
     **Bonus Question**:  
-    Sentiment analysis
-    for the sake of sentiment analysis, in the reviews preprocessing step, we deployed the [stopword-iso](https://github.com/stopwords-iso/stopwords-iso/tree/master ) json file 
+    >Sentiment analysis
+    For the sake of sentiment analysis, we deployed the [stopword-iso](https://github.com/stopwords-iso/stopwords-iso/tree/master ) json file in the reviews preprocessing step, which contains multilingual stopwords.
 
     **Algorithmic Question (AQ)**
 
