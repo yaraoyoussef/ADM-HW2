@@ -17,6 +17,7 @@ The repository consists of the following files:
 
    > **Bonus Question**:  
    > Sentiment analysis
+   > for the sake of sentiment analysis, in the reviews preprocessing step, we deployed the [stopword-iso](https://github.com/stopwords-iso/stopwords-iso/tree/master ) json file 
 
    > **Algorithmic Question (AQ)**
 
