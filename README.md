@@ -6,9 +6,8 @@ We answered research questions (RQs) about [Kaggle's](https://www.kaggle.com/dat
 
 The repository consists of the following files:
 1. __`main.ipynb`__:
-
-	> A Jupyter notebook which provides the solutions to all research questions and algorithmic question.
- The notebook can be also visualized at the [Jupyter nbviewer link](https://nbviewer.org/github/yaraoyoussef/ADM-HW2/blob/main/main.ipynb).
+    > A Jupyter notebook which provides the solutions to all research questions and algorithmic question.
+The notebook can be also visualized at the [Jupyter nbviewer link](https://nbviewer.org/github/yaraoyoussef/ADM-HW2/blob/main/main.ipynb).
 
 
      **Research Questions:**
@@ -21,8 +20,7 @@ The repository consists of the following files:
     7. **[RQ7]**: Certainly, calculating probabilities and conducting statistical tests are essential skills for any data scientist. Let's calculate some intriguing figures.
 
     **Bonus Question**:  
-    >Sentiment analysis
-    For the sake of sentiment analysis, we deployed the [stopword-iso](https://github.com/stopwords-iso/stopwords-iso/tree/master ) json file in the reviews preprocessing step, which contains multilingual stopwords.
+    > For the sake of sentiment analysis, we deployed the [stopword-iso](https://github.com/stopwords-iso/stopwords-iso/tree/master ) json file in the reviews preprocessing step, which contains multilingual stopwords.
 
     **Algorithmic Question (AQ)**
 
