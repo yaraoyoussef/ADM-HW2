@@ -4,3 +4,5 @@
 
 # avoid uploading huge dataset to github
 dataset/
+.ipynb_checkpoints/
+
